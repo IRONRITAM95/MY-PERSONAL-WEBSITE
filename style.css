@@ -1,0 +1,96 @@
+body
+{
+text-align: center;
+}
+#welcome
+{
+background: linear-gradient(#fc0303 0%,#0000e6 100%);
+height: 500px;
+}
+#img1
+{
+border-color: cyan;
+border-style: ridge;
+border-radius: 30px;
+margin-top: 50px;
+}
+#name
+{
+color: cyan;
+font-family: cursive;
+}
+.h
+{
+text-decoration: underline;
+font-family: 'Potta One', cursive;
+}
+#about_me
+{
+background: linear-gradient(cyan 0%,pink 100%);
+height: 400px;
+padding: 50px;
+}
+#p1
+{
+font-size: 20px;
+font-family: monospace;
+font-weight: bold;
+}
+#my_apps
+{
+background: linear-gradient(#cc9900 0%,brown 100%);
+height:700px;
+padding: 50px;
+}
+#chatbot
+{
+background: linear-gradient(#33ff33 0%,yellow 100%);
+height: 500px;
+padding: 50px;
+}
+#my_videos
+{
+background: linear-gradient(#800040 0%,#ff0080 100%);
+height: 500px;
+padding: 50px;
+}
+#my_games
+{
+background: linear-gradient(#ff751a 0%,#ffff1a 100%);
+height: 500px;
+padding: 50px;
+}
+.img:hover
+{
+transform: scale(1.2);
+}
+.img
+{
+height: 300px;
+}
+#my_location
+{
+height: 600px;
+background: linear-gradient(#cccccc 0%,#1a1a1a 100%);
+padding: 50px;
+}
+#my_contacts
+{
+background: linear-gradient(#248f24 0%,#6666ff 100%);
+height: 300px;
+padding: 50px;
+}
+.menu
+{
+list-style: none;
+margin-top: -420px;
+margin-left: 250px;
+}
+.links
+{
+float: left;
+padding: 15px;
+font-size: 25px;
+    font-weight: 500;
+font-family: fantasy;
+}
